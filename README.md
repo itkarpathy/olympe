@@ -1,3 +1,6 @@
+
+![olympe-bg](https://user-images.githubusercontent.com/37480888/208321852-74393d05-6845-441a-bfa3-485652fe5cd5.png)
+
 ### Music App Player
 
 Used json object for player track visulization and created customised audioplayer.
