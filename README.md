@@ -1,5 +1,5 @@
+![Music Studio](https://user-images.githubusercontent.com/37480888/208321969-20bf43cc-2776-49ea-8783-267da3a03d7d.png)
 
-![olympe-bg](https://user-images.githubusercontent.com/37480888/208321852-74393d05-6845-441a-bfa3-485652fe5cd5.png)
 
 ### Music App Player
 
